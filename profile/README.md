@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there. This group is from PURDUE_B35 - DEVOPS MASTER PROGRAM 👋
 
 <!--
 
