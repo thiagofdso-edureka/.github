@@ -13,4 +13,5 @@
 
 Access discord group
 
-https://discord.gg/JQcGHkmG
+https://discord.gg/tepZeE7Z
+
